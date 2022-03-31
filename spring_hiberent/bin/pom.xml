@@ -15,7 +15,7 @@
 	<properties>
 		<start-class>com.vyako.smarttbm.application.Application</start-class>
 		<java.version>1.8</java.version>
-		<springboot.version>1.4.0.RELEASE</springboot.version>
+		<springboot.version>2.5.12</springboot.version>
 		<springframework.version>4.3.2.RELEASE</springframework.version>
 		<hibernate.version>4.2.21.Final</hibernate.version>
 	</properties>
